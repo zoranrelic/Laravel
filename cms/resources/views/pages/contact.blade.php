@@ -177,7 +177,7 @@
         </section>
         <!-- end contact form -->
         <!-- start map section -->
-        <section class="p-0 one-second-screen md-height-400px wow fadeIn"><iframe class="w-100 h-100" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJo7XpBq3XZUcRlehXS1R5CPk&key=AIzaSyBW8bWcPDeusg0V__ufb5fZk9xclrjA_C0" allowfullscreen"></iframe></section>
+        <section class="p-0 one-second-screen md-height-400px wow fadeIn"><iframe class="w-100 h-100" src="#" allowfullscreen"></iframe></section>
         <!-- end map section -->
         <!-- start social section -->
         <section class="wow fadeIn">
